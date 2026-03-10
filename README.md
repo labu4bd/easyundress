@@ -1,6 +1,8 @@
 <div align="center">
-   (https://www.youtube.com/watch?v=TfsoypgaqGs)
-   
+   <img width="423" height="302" alt="HowTo_EasyUndress1" src="https://github.com/user-attachments/assets/fa6a3517-68df-41cb-ba36-fb6fc45e46d4" />
+   <img width="417" height="293" alt="HowTo_EasyUndress2" src="https://github.com/user-attachments/assets/77050ef4-29d3-4de7-8bb4-688bb60a0fd7" />
+   <img width="415" height="297" alt="HowTo_EasyUndress3" src="https://github.com/user-attachments/assets/0cceb239-e61f-45b0-bdd7-b4c1cf3308f6" />
+   <img width="416" height="299" alt="HowTo_EasyUndress4" src="https://github.com/user-attachments/assets/cb58ed46-d990-4b03-82ba-9736015c8e0c" />
 </div>
 
 # Description
