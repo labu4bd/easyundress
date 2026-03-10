@@ -1,20 +1,17 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="475" alt="GHBanner" src="https://www.youtube.com/watch?v=TfsoypgaqGs" />
 </div>
 
-# Run and deploy your AI Studio app
+# Description
 
-This contains everything you need to run your app locally.
+EasyUndress is a very useful product with a simple design that can be used on the beach and lakes, but also after running, biking and all outdoor training too. With EasyUndress, you will need only one product to lie back and soak up the sun, to wipe the water or sweat and to undress yourself without any problem, even in public.
 
-View your app in AI Studio: https://ai.studio/apps/465b1359-a0fd-46c0-afe7-5e9ff4d7b122
+EasyUndress is a very useful product for changing clothes even in public.
+We developed a simple design that can be used on the beach and lakes, but also after running, biking and all outdoor training too. With EasyUndress, you will need only one product to lie back and soak up the sun, to wipe the water or sweat and to undress yourself without any problem, even in public.
 
-## Run Locally
+## What problem/s are solved:
 
-**Prerequisites:**  Node.js
+When a woman goes to the beach or lakes and arrives at the time to undress herself and change her clothes, the problem arises if there is no change room. The same thing happens after a great outdoor training.
+Furthermore, if you are going to the beach or to run or bike, you will not have much space in your bag, so you can bring a few things with you.
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+*
